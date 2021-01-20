@@ -1,6 +1,6 @@
 class Fish:
 
-    def __int__(self, name, weight, color):
+    def __init__(self, name, weight, color):
 
         self.name = name
         self.weight = weight
